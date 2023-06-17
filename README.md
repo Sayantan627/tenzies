@@ -1,3 +1,3 @@
 # Tenzies Game
 
-## live site url = https://majestic-raindrop-ca5106.netlify.app/
+## live site url = https://tenzies-game-sayantan627.netlify.app/
